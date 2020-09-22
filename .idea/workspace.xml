@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de2b2941-f305-4bdd-91ab-b3fb1f348fbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hoink2blkjpzB0XaIRbPkm7nmJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers/users" />
+      <recent name="$PROJECT_DIR$/controllers/ping_controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/getganesh2000/bookstore_users-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_users-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/getganesh2000/bookstore_users-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/getganesh2000/bookstore_users-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600749026625">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="689" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1005@0.23.1920.1005" timestamp="1600749026625" />
+    <state width="1878" height="327" key="GridCell.Tab.0.bottom" timestamp="1600759777645">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.0.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777645" />
+    <state width="1878" height="327" key="GridCell.Tab.0.center" timestamp="1600759777644">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.0.center/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777644" />
+    <state width="1878" height="327" key="GridCell.Tab.0.left" timestamp="1600759777644">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.0.left/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777644" />
+    <state width="1878" height="327" key="GridCell.Tab.0.right" timestamp="1600759777645">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.0.right/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777645" />
+    <state width="1878" height="327" key="GridCell.Tab.1.bottom" timestamp="1600759777646">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777646" />
+    <state width="1878" height="327" key="GridCell.Tab.1.center" timestamp="1600759777645">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.center/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777645" />
+    <state width="1878" height="327" key="GridCell.Tab.1.left" timestamp="1600759777645">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.left/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777645" />
+    <state width="1878" height="327" key="GridCell.Tab.1.right" timestamp="1600759777646">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="327" key="GridCell.Tab.1.right/0.23.1920.1005@0.23.1920.1005" timestamp="1600759777646" />
+    <state x="338" y="138" key="SettingsEditor" timestamp="1600684060402">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="338" y="138" key="SettingsEditor/0.23.1920.1005@0.23.1920.1005" timestamp="1600684060402" />
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1600744076831">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.23.1920.1005@0.23.1920.1005" timestamp="1600744076831" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/users/users.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/users/users.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
